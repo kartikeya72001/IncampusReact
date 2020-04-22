@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/IncampusReact/static/css/main.fc19dd56.chunk.css",
+    "main.js": "/IncampusReact/static/js/main.8d078fca.chunk.js",
+    "main.js.map": "/IncampusReact/static/js/main.8d078fca.chunk.js.map",
+    "runtime-main.js": "/IncampusReact/static/js/runtime-main.a4cacbf5.js",
+    "runtime-main.js.map": "/IncampusReact/static/js/runtime-main.a4cacbf5.js.map",
+    "static/css/2.de424728.chunk.css": "/IncampusReact/static/css/2.de424728.chunk.css",
+    "static/js/2.9f64eeaf.chunk.js": "/IncampusReact/static/js/2.9f64eeaf.chunk.js",
+    "static/js/2.9f64eeaf.chunk.js.map": "/IncampusReact/static/js/2.9f64eeaf.chunk.js.map",
+    "index.html": "/IncampusReact/index.html",
+    "precache-manifest.2393bad5252a00f4898fbbc38800963e.js": "/IncampusReact/precache-manifest.2393bad5252a00f4898fbbc38800963e.js",
+    "service-worker.js": "/IncampusReact/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/IncampusReact/static/css/2.de424728.chunk.css.map",
+    "static/css/main.fc19dd56.chunk.css.map": "/IncampusReact/static/css/main.fc19dd56.chunk.css.map",
+    "static/js/2.9f64eeaf.chunk.js.LICENSE.txt": "/IncampusReact/static/js/2.9f64eeaf.chunk.js.LICENSE.txt",
+    "static/media/Logo.PNG": "/IncampusReact/static/media/Logo.9debf296.PNG",
+    "static/media/OTP anime.gif": "/IncampusReact/static/media/OTP anime.a3f9c503.gif",
+    "static/media/SecProfilePic.jpg": "/IncampusReact/static/media/SecProfilePic.e6d61c97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4cacbf5.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.9f64eeaf.chunk.js",
+    "static/css/main.fc19dd56.chunk.css",
+    "static/js/main.8d078fca.chunk.js"
+  ]
+}
